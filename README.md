@@ -1,6 +1,6 @@
 # Chapter 1: Foundation of Digital Technologies
 Introduces digital technology and its transformative impact across all sectors, with a focus on law. Explains how e-justice systems, online dispute resolution, digital signatures, and LegalTech platforms modernize legal practice.
--- Key Idea: Law is evolving with digital tools that improve efficiency, accessibility, and workflow automation.
+@ Key Idea: Law is evolving with digital tools that improve efficiency, accessibility, and workflow automation.
 
 # Chapter 2: Information System and Database for Legal Practice
 Covers the basics of data (structured vs. unstructured) and databases (SQL vs. NoSQL). Introduces digital records management, metadata, archiving, and blockchain time-stamping. Highlights legal challenges like evidence integrity and chain of custody.
